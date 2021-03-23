@@ -1,0 +1,12 @@
+{
+    "name": "ibu/autoreservation",
+    "description": "Auto reservation system for intro2web course",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "enasoljic",
+            "email": "ena.soljic@stu.ibu.edu.ba"
+        }
+    ],
+    "require": {}
+}
